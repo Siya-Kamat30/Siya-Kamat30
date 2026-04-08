@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siya Kamat</h1>
 
 <h3 align="center">
-MSc Web & Data Science @ Universität Koblenz &nbsp;|&nbsp; Power BI · SQL · Python · Machine Learning
+MSc Web and Data Science @ Universität Koblenz &nbsp;|&nbsp; Power BI · SQL · Python · Machine Learning
 </h3>
 
 <p align="center">
@@ -17,12 +17,12 @@ MSc Web & Data Science @ Universität Koblenz &nbsp;|&nbsp; Power BI · SQL · P
 
 ## About Me
 
-I am a Master's student in Web and Data Science at Universität Koblenz with hands-on experience building end-to-end data solutions — from raw messy data all the way to dashboards people actually want to use.
+I am a Master's student in Web and Data Science at Universität Koblenz with hands-on experience building end-to-end data solutions from raw messy data all the way to dashboards people actually want to use.
 
 - 🔍 I enjoy finding insights in messy, unstructured datasets
 - 📊 I build interactive Power BI dashboards with DAX, Power Query, and star schema modeling
 - 🤖 I have applied NLP methods (LDA, BERTopic, SBERT) in academic research across 45 universities in 5 countries
-- 🌍 Based in Koblenz, Germany — open to Werkstudent roles in data analytics or data science
+- 🌍 Based in Koblenz, Germany open to Werkstudent roles in data analytics or data science
 - 🗣️ I speak English (C1), German (B1 in progress), Hindi (C1)
 
 ---
@@ -56,12 +56,12 @@ Predicting 30-day readmission risk for diabetic patients using ML models and an 
 ### 📊 Recipe Explorer & Ingredient Breakdown Dashboard
 *Power BI · DAX · Python · Star Schema*
 End-to-end BI solution processing 13,000+ records with star schema modeling, drill-through navigation, and DAX measures.
-[View Project →](#)
+[View Project →](#https://github.com/Siya-Kamat30/Recipe-Explorer-Ingredient-Breakdown-Dashboard)
 
 ### 👥 HR Analytics Dashboard
 *Tableau · Excel · Data Visualization*
 Interactive dashboard tracking attrition, satisfaction KPIs, and demographic patterns across 1,400+ employees.
-[View Project →](#)
+[View Project →](#https://github.com/Siya-Kamat30/HR-Analytics-Dashboard)
 
 ---
 
@@ -75,8 +75,7 @@ Applied LDA, BERTopic, and SBERT to analyze LLM usage policies across 45 univers
 
 ## Publications
 
-**Face Mask Detection using Machine Learning and Image 
-Processing**
+**Face Mask Detection using Machine Learning and Image Processing**
 International Research Journal of Engineering and Technology (IRJET), Vol. 9, Issue 7, July 2022
 *Python · EfficientNet · MTCNN · PyTorch*
 
