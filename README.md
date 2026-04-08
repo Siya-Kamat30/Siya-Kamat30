@@ -13,7 +13,6 @@ MSc Web and Data Science @ Universität Koblenz &nbsp;|&nbsp; Power BI · SQL ·
   </a>
 </p>
 
----
 
 ## About Me
 
@@ -56,12 +55,12 @@ Predicting 30-day readmission risk for diabetic patients using ML models and an 
 ### 📊 Recipe Explorer & Ingredient Breakdown Dashboard
 *Power BI · DAX · Python · Star Schema*
 End-to-end BI solution processing 13,000+ records with star schema modeling, drill-through navigation, and DAX measures.
-[View Project →](#https://github.com/Siya-Kamat30/Recipe-Explorer-Ingredient-Breakdown-Dashboard)
+[View Project → https://github.com/Siya-Kamat30/Recipe-Explorer-Ingredient-Breakdown-Dashboard](#)
 
 ### 👥 HR Analytics Dashboard
 *Tableau · Excel · Data Visualization*
 Interactive dashboard tracking attrition, satisfaction KPIs, and demographic patterns across 1,400+ employees.
-[View Project →](#https://github.com/Siya-Kamat30/HR-Analytics-Dashboard)
+[View Project → https://github.com/Siya-Kamat30/HR-Analytics-Dashboard](#)
 
 ---
 
