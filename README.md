@@ -21,7 +21,7 @@ I am a Master's student in Web and Data Science at Universität Koblenz with han
 - 🔍 I enjoy finding insights in messy, unstructured datasets
 - 📊 I build interactive Power BI dashboards with DAX, Power Query, and star schema modeling
 - 🤖 I have applied NLP methods (LDA, BERTopic, SBERT) in academic research across 45 universities in 5 countries
-- 🌍 Based in Koblenz, Germany open to Werkstudent roles in data analytics or data science
+- 🌍 Based in Aachen, Germany open to Werkstudent roles in data analytics or data science
 - 🗣️ I speak English (C1), German (B1 in progress), Hindi (C1)
 
 ---
